@@ -21,7 +21,7 @@ import android.widget.TextView;
  */
 public class LoginActivity extends Activity {
 	/**
-	 * hol
+	 * hola
 	 * A dummy authentication store containing known user names and passwords.
 	 * TODO: remove after connecting to a real authentication system.
 	 */
